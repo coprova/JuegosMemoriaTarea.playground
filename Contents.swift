@@ -1,6 +1,6 @@
 import UIKit
 
-var str = "Juegos de Memoria, playground tarea"
+var str = "Juegos de Memoria, playground tarea Semana 2"
 
 var numeros = 0...100
 for num in numeros{
